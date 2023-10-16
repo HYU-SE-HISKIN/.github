@@ -3,7 +3,7 @@
 > Healing&Interation Skin Care
 
 ## Abstract
-뷰티 디바이스와 연결하여 사용자가 피부 관리를 받을 수 있는 소통형 애플리케이션 개발을 목표로 하고 있습니다.  
+We aim to develop a communicative application that allows users to receive skincare by connecting with beauty devices.  
 
 ## Members
 HaeRyung Cha, Front-End Developer, haeryung8@hanyang.ac.kr
