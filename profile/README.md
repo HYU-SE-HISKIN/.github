@@ -6,10 +6,10 @@
 We aim to develop a communicative application that allows users to receive skincare by connecting with beauty devices.  
 
 ## Members
-HaeRyung Cha, Front-End Developer, haeryung8@hanyang.ac.kr
+HaeRyung Cha, Department of Information Systems, haeryung8@hanyang.ac.kr
 
-SeokYoung Kim, Back-End Developer, kim2653seok@gmail.com
+SeokYoung Kim, Department of Information Systems, kim2653seok@gmail.com
 
-YuJin Park, Machine-Learning Developer, jinee22@hanyang.ac.kr
+YuJin Park, Department of Information Systems, jinee22@hanyang.ac.kr
 
-ChanMin Kim, Project Designer, han2cmk@hanyang.ac.kr
+ChanMin Kim, Department of Information Systems, han2cmk@hanyang.ac.kr
