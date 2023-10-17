@@ -4,15 +4,15 @@
 
 ## Proposal
 
-In today's world, where skincare has taken center stage, more and more busy individuals are opting to manage their skincare routines from the comfort of their own homes. This shift has led to the rise of beauty devices that offer DIY skincare solutions. However, these home-based routines come with their own set of limitations, primarily the lack of personalized guidance and continuous care.
+In today's skincare-centric world, many busy individuals are opting to manage their skincare routines from the comfort of their own homes, leading to the rise of DIY skincare solutions through beauty devices. However, these at-home routines come with limitations, primarily the lack of personalized guidance and ongoing care.
 
-To address these challenges, our team is excited to introduce HISKIN, a user-friendly skincare application that bridges the gap between at-home skincare and professional dermatology. HISKIN is designed to enhance your skincare experience by leveraging cutting-edge technology and providing tailored support.
+To address these challenges, we're excited to introduce HISKIN, a user-friendly skincare application that bridges the gap between at-home skincare and professional dermatology. HISKIN enhances your skincare experience through cutting-edge technology and tailored support.
 
-HISKIN allows users to register their beauty devices, and it incorporates AI voice recognition technology by using NUGU speaker or their beauty devices to facilitate seamless communication. Through conversations and analysis, HISKIN offers personalized skincare tips, daily advice, and management methods based on the user's mood, making it feel like you're consulting a dermatologist from the comfort of your home.
+HISKIN allows users to register their beauty devices and employs AI voice recognition technology through NUGU speakers or their beauty devices for seamless communication. It provides personalized skincare tips, daily advice, and management methods based on the user's mood, creating a feeling of consulting a dermatologist from home.
 
-But HISKIN goes beyond just care during device usage. It recognizes that skincare is an ongoing process. With our innovative challenges program, users can maintain their skincare regimen even after using the device. These challenges are tailored to the user's skin type, encouraging healthy habits such as moisture-soothing packs.
+But HISKIN doesn't stop at device usage. Recognizing skincare as an ongoing process, it offers innovative challenges tailored to the user's skin type, promoting healthy habits like moisture-soothing packs.
 
-In a world where the pursuit of beauty and flawless skin continues to grow, HISKIN provides an ideal solution. Join us in embracing a new era of skincare, where you can achieve radiant, healthy skin, anytime, anywhere. HISKIN - Your Personalized Skincare Application.
+In a world where the quest for beauty and flawless skin continues to grow, HISKIN provides an ideal solution, ushering in a new era of skincare where you can achieve radiant, healthy skin, anytime, anywhere. HISKIN - Your Personalized Skincare Application.
 
 ## Members
 HaeRyung Cha, Department of Information Systems, haeryung8@hanyang.ac.kr
