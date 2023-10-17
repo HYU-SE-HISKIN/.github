@@ -10,7 +10,7 @@ To address these challenges, our team is excited to introduce HISKIN, a user-fri
 
 HISKIN allows users to register their beauty devices, and it incorporates AI voice recognition technology by using NUGU speaker or their beauty devices to facilitate seamless communication. Through conversations and analysis, HISKIN offers personalized skincare tips, daily advice, and management methods based on the user's mood, making it feel like you're consulting a dermatologist from the comfort of your home.
 
-But HISKIN goes beyond just care during device usage. It recognizes that skincare is an ongoing process. With our innovative challenges program, users can maintain their skincare regimen even after using the device. These challenges are tailored to the user's skin type, encouraging healthy habits such as moisture-soothing packs and staying hydrated with more than 1 liter of water daily.
+But HISKIN goes beyond just care during device usage. It recognizes that skincare is an ongoing process. With our innovative challenges program, users can maintain their skincare regimen even after using the device. These challenges are tailored to the user's skin type, encouraging healthy habits such as moisture-soothing packs.
 
 In a world where the pursuit of beauty and flawless skin continues to grow, HISKIN provides an ideal solution. Join us in embracing a new era of skincare, where you can achieve radiant, healthy skin, anytime, anywhere. HISKIN - Your Personalized Skincare Application.
 
