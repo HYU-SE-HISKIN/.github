@@ -8,7 +8,7 @@ In today's skincare-centric world, many busy individuals are opting to manage th
 
 To address these challenges, we're excited to introduce HISKIN, a user-friendly skincare application that bridges the gap between at-home skincare and professional dermatology. HISKIN enhances your skincare experience through cutting-edge technology and tailored support.
 
-HISKIN allows users to register their beauty devices and employs AI voice recognition technology through NUGU speakers or their beauty devices for seamless communication. It provides personalized skincare tips, daily advice, and management methods based on the user's mood, creating a feeling of consulting a dermatologist from home.
+HI-SKIN allows users to register their beauty devices and employs AI voice recognition technology through NUGU speakers or their beauty devices for seamless communication. It provides personalized skincare tips, daily advice, and management methods based on the user's mood, creating a feeling of consulting a dermatologist from home.
 
 But HI-SKIN doesn't stop at device usage. Recognizing skincare as an ongoing process, it offers innovative challenges tailored to the user's skin type, promoting healthy habits like moisture-soothing packs.
 
