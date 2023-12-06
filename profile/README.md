@@ -16,6 +16,7 @@ In a world where the quest for beauty and flawless skin continues to grow, HI-SK
 
 ## Links
 **Notion**: <https://woolen-headphones-58f.notion.site/HI-SKIN-e5146151483740b882ef9d48d0f13d1f?pvs=4>
+
 **Youtube**: 
 
 ## Members
