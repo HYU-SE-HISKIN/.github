@@ -15,13 +15,13 @@ But HI-SKIN doesn't stop at device usage. Recognizing skincare as an ongoing pro
 In a world where the quest for beauty and flawless skin continues to grow, HI-SKIN provides an ideal solution, ushering in a new era of skincare where you can achieve radiant, healthy skin, anytime, anywhere. HI-SKIN - Your Personalized Skincare Application.
 
 ## Main Functions
-**SkinType Test**
+- **SkinType Test**: diagnose the user's skin type as one of 16 skin types
 
-**Cosmetic Recommendations**
+- **Cosmetic Recommendations**: recommendation of cosmetics suitable for the user's skin
 
-**SkinCare Challenge**
+- **SkinCare Challenge**: perform daily skin challenges to score points + take a picture of users' face to diagnose acne, dark circles, and flushing
 
-**AI Communication**
+- **AI Communication**: communicate with AI Speaker and chat with openAI while being managed by LG Pra.L
 
 ## Architecture Design
 
