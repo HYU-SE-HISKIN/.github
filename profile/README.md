@@ -14,6 +14,19 @@ But HI-SKIN doesn't stop at device usage. Recognizing skincare as an ongoing pro
 
 In a world where the quest for beauty and flawless skin continues to grow, HI-SKIN provides an ideal solution, ushering in a new era of skincare where you can achieve radiant, healthy skin, anytime, anywhere. HI-SKIN - Your Personalized Skincare Application.
 
+## Main Functions
+**SkinType Test**
+
+**Cosmetic Recommendations**
+
+**SkinCare Challenge**
+
+**AI Communication**
+
+## Architecture Design
+
+![architecture_github](https://github.com/HYU-SE-HISKIN/.github/assets/81680191/8d69fee9-fee8-4763-8c03-9bfbe283bc70)
+
 ## Links
 **Notion**: <https://bit.ly/3uWAyUs>
 
