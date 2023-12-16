@@ -15,7 +15,7 @@ But HI-SKIN doesn't stop at device usage. Recognizing skincare as an ongoing pro
 In a world where the quest for beauty and flawless skin continues to grow, HI-SKIN provides an ideal solution, ushering in a new era of skincare where you can achieve radiant, healthy skin, anytime, anywhere. HI-SKIN - Your Personalized Skincare Application.
 
 ## Demo Video
-[![Watch the Video](http://img.youtube.com/vi/Bth1vl1VOTk&ab_channel=한2/0.jpg)](https://www.youtube.com/watch?v=Bth1vl1VOTk&ab_channel=%ED%95%9C2)
+[![Watch the Video](http://img.youtube.com/vi/Bth1vl1VOTk&ab_channel=%ED%95%9C2/0.jpg)](https://www.youtube.com/watch?v=Bth1vl1VOTk&ab_channel=%ED%95%9C2)
 
 ## Main Functions
 
